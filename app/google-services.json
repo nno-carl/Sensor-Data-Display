@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683738457464",
+    "firebase_url": "https://sensor-f39e3.firebaseio.com",
+    "project_id": "sensor-f39e3",
+    "storage_bucket": "sensor-f39e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683738457464:android:a2af79f34e6461a0a0d48d",
+        "android_client_info": {
+          "package_name": "com.example.sensordatadisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683738457464-v00emmnj5q6kssac1vh9drtcpbpajjso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDnf49t5PXVvEup943Fj-6WzXQslSdBuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683738457464-v00emmnj5q6kssac1vh9drtcpbpajjso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

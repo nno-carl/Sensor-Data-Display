@@ -1,4 +1,3 @@
-# Sensor-Data-Display
 1 Installation
 Click the ‘Sensor Data Display.apk’ to install the application on the smartphone.
  
